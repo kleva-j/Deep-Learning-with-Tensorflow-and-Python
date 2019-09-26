@@ -2,7 +2,7 @@
 
 ### Instructions
 
-In this exercise you'll try to build a neural network that predicts the price of a house according to a simple formula.
+In this exercise we'll build a neural network that predicts the price of a house according to a simple formula.
 
 So, imagine if house pricing was as easy as a house costs 50k + 50k per bedroom, so that a 1 bedroom house costs 100k, a 2 bedroom house costs 150k etc.
 
@@ -14,7 +14,7 @@ Hint: Your network might work better if you scale the house price down. You don'
 
 ### Instructions
 
-In the course you learned how to do classificaiton using Fashion MNIST, a data set containing items of clothing. There's another, similar dataset called MNIST which has items of handwriting -- the digits 0 through 9.
+In the course we'll implement classification using Fashion MNIST, a data set containing items of clothing. There's another, similar dataset called MNIST which has items of handwriting -- the digits 0 through 9.
 
 Write an MNIST classifier that trains to 99% accuracy or above, and does it without a fixed number of epochs -- i.e. you should stop training once you reach that level of accuracy.
 
